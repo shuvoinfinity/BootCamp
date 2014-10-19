@@ -1,0 +1,33 @@
+c:\users\pc21\documents\visual studio 2013\Projects\StudentResultManagementSystemApp\StudentResultManagementSystemApp\bin\Debug\StudentResultManagementSystemApp.exe.config
+c:\users\pc21\documents\visual studio 2013\Projects\StudentResultManagementSystemApp\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.UI.EnrollUI.resources
+c:\users\pc21\documents\visual studio 2013\Projects\StudentResultManagementSystemApp\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.UI.MainUI.resources
+c:\users\pc21\documents\visual studio 2013\Projects\StudentResultManagementSystemApp\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.Properties.Resources.resources
+c:\users\pc21\documents\visual studio 2013\Projects\StudentResultManagementSystemApp\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.csproj.GenerateResource.Cache
+c:\users\pc21\documents\visual studio 2013\Projects\StudentResultManagementSystemApp\StudentResultManagementSystemApp\bin\Debug\StudentResultManagementSystemApp.exe
+c:\users\pc21\documents\visual studio 2013\Projects\StudentResultManagementSystemApp\StudentResultManagementSystemApp\bin\Debug\StudentResultManagementSystemApp.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\StudentResultManagementSystemApp\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.exe
+c:\users\pc21\documents\visual studio 2013\Projects\StudentResultManagementSystemApp\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.pdb
+c:\users\pc21\documents\visual studio 2013\Projects\StudentResultManagementSystemApp\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.UI.ResultEntryUI.resources
+c:\users\pc21\documents\visual studio 2013\Projects\StudentResultManagementSystemApp\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.UI.ResultSheetUI.resources
+c:\users\pc21\documents\visual studio 2013\Projects\StudentResultManagementSystemApp\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.csprojResolveAssemblyReference.cache
+L:\BOOT CAMP\StudentResultManagementSystemApp\bin\Debug\StudentResultManagementSystemApp.exe.config
+L:\BOOT CAMP\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.exe
+L:\BOOT CAMP\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.pdb
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\bin\Debug\StudentResultManagementSystemApp.exe.config
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\bin\Debug\StudentResultManagementSystemApp.exe
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\bin\Debug\StudentResultManagementSystemApp.pdb
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\bin\Debug\mscorlib.dll
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\bin\Debug\normidna.nlp
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\bin\Debug\normnfc.nlp
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\bin\Debug\normnfd.nlp
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\bin\Debug\normnfkc.nlp
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\bin\Debug\normnfkd.nlp
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.UI.EnrollUI.resources
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.UI.MainUI.resources
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.Properties.Resources.resources
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.UI.ResultEntryUI.resources
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.UI.ResultSheetUI.resources
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.csproj.GenerateResource.Cache
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.exe
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.pdb
+C:\Users\RONOK\Desktop\BOOT CAMP\StudentResultManagementSystemApp\obj\Debug\StudentResultManagementSystemApp.csprojResolveAssemblyReference.cache
